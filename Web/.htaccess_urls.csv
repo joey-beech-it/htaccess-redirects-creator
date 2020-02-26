@@ -1,0 +1,30 @@
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/1$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/2$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/3$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/4$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/5$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/6$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/7$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/8$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/9$ https://www.mynewdomain.nl [L,R=302]
+
+RewriteCond %{HTTP_HOST} ^(www\.)?domain.nl$
+RewriteRule ^this/is/my/url/which/should/be/redirected/10$ https://www.mynewdomain.nl [L,R=302]
+
